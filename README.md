@@ -1,1 +1,3 @@
-##I intent to establish myself as Software Engineer/ Architect with an integrated software solution provider through long time commitment and serve its clients by providing ##excellent software experience and technical support
+# Hi, my name is Faakhir Habib. 
+I am a Full Stack/Seasoned Software Engineer who loves to code in C#, NET Core, Angular, TS, JS
+Looking forward to contribute in open source .NET Core project please contact me at **faakhirhabib@gmail.com**
