@@ -1,6 +1,6 @@
 # Hi, I'm Faakhir Habib 👋🏽
 
-A Full Stack/Seasoned Software Engineer who loves to code in ****C#****, ****.NET Core****, ****SQL**** ****Angular****, ****TypeScript****, ****JavaScript**** and ****Php****.
+A Full Stack/Seasoned Software Engineer who loves to code in ****C#****, ****.NET Core****, ****SQL****, ****Angular****, ****TypeScript****, ****JavaScript**** and ****Php****.
 Please reach me at **faakhirhabib@gmail.com**
 
 
