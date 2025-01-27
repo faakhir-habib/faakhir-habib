@@ -4,7 +4,7 @@ I'm a **seasoned Full Stack Software Engineer** with a passion for building effi
 
 ### 🚀 Tech Stack:
 - **Languages & Frameworks:**  
-  - `C#` | `.NET Core` | `TypeScript` | `JavaScript` | `Python` | `PHP` | `SQL` | `Angular`  
+  - `C#` | `.NET` | `TypeScript` | `JavaScript` | `Python` | `PHP` | `SQL` | `Angular`  
 - **Tools & Technologies:**  
   - `RESTful APIs` | `Entity Framework` | `LINQ` | `Git` | `CI/CD Pipelines` | `Cloud Integrations`  
 
@@ -18,5 +18,5 @@ I'm a **seasoned Full Stack Software Engineer** with a passion for building effi
 - Strong advocate for clean code principles, test-driven development (TDD), and collaboration.  
 
 ### 📫 Reach Out:  
-💌 **Email:** [faakhirhabib@gmail.com](mailto:faakhirhabib@gmail.com) 
+💌 **Email:** [faakhirhabib@gmail.com](mailto:faakhirhabib@gmail.com)  
 💼 **LinkedIn:** [faakhir-habib](https://www.linkedin.com/in/faakhir-habib)
