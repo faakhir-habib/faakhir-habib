@@ -1,7 +1,20 @@
-# Hi, I'm Faakhir Habib 👋🏽
+# Hi, I'm Faakhir Habib 👋🏽  
 
-A Full Stack/Seasoned Software Engineer who loves to code in ****C#****, ****.NET Core****, ****SQL****, ****Angular****, ****TypeScript****, ****JavaScript**** and ****Php****.
-Please reach me at **faakhirhabib@gmail.com**
+## 💻 Full Stack Software Engineer | Code Enthusiast  
 
+I'm a **seasoned Full Stack Software Engineer** with a passion for building efficient, scalable, and elegant solutions. With expertise spanning across front-end and back-end technologies, I thrive on solving complex problems and crafting exceptional user experiences.  
 
-![](https://github.com/faakhir-habib/faakhir-habib/blob/master/VeURN1595181435.jpg)
+### 🚀 Tech Stack:
+- **Languages & Frameworks:**  
+  - `C#` | `.NET Core` | `TypeScript` | `JavaScript` | `Python` | `PHP` | `SQL` | `Angular`  
+- **Tools & Technologies:**  
+  - `RESTful APIs` | `Entity Framework` | `LINQ` | `Git` | `CI/CD Pipelines` | `Cloud Integrations`  
+
+### 🌟 About Me:
+- I enjoy turning ideas into functional, high-quality software.  
+- Always learning, adapting, and experimenting with new tech to stay ahead in the ever-changing software world.  
+- Strong advocate for clean code principles, test-driven development (TDD), and collaboration.  
+
+### 📫 Reach Out:  
+💌 **Email:** [faakhirhabib@gmail.com](mailto:faakhirhabib@gmail.com)  
+💼 **LinkedIn:** [faakhir-habib](https://www.linkedin.com/in/faakhir-habib)
