@@ -32,11 +32,11 @@ Full Stack Software Engineer passionate about building efficient, scalable, and 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faakhir-habib&theme=default" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faakhir-habib&theme=default" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faakhir-habib&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faakhir-habib&theme=github_dark" height="150" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=faakhir-habib&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=faakhir-habib&theme=dark&hide_border=true)
 
 ---
 
