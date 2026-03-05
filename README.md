@@ -1,5 +1,3 @@
-# Hi, I'm Faakhir Habib
-
 Full Stack Software Engineer passionate about building efficient, scalable, and elegant software. I work across the entire stack — from crafting responsive UIs to designing robust back-end systems and cloud integrations.
 
 ---
